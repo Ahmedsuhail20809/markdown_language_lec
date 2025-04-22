@@ -1,4 +1,4 @@
 # markdown_language_lec
 markdown language basic and main useful function in one repo
-## took used :
+## tool used :
 * VS code
